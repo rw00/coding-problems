@@ -1,0 +1,22 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Gradle build files
+build/
+.gradle/
+
+# Target test files
+target/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package files #
+*.jar
+*.zip
+*.tar.gz
+*.rar
